@@ -1,0 +1,16 @@
+{
+  "name": "pruebas-unitarias-aaa",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo con pruebas unitarias usando el patrón AAA",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": ["testing", "AAA", "unit-tests"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
